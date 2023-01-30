@@ -1,3 +1,2 @@
-#first program
-import json 
-#first line of code - menu1
+myList = list(range(1,101,3))
+print (myList)
